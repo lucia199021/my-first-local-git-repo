@@ -1,0 +1,35 @@
+"*":
+  core:
+    closeDeletedFileTabs: true
+    telemetryConsent: "no"
+  editor:
+    fontFamily: "Monoid HalfLoose"
+    fontSize: 18
+    lineHeight: 1.3
+    nonWordCharacters: "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-…_–—“”‘”"
+    preferredLineLength: 85
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "39dd0910-7fda-43b9-a699-fddc949adda1"
+  "linter-ui-default":
+    panelHeight: 69
+  welcome:
+    showOnStartup: false
+".basic.html.text":
+  editor:
+    tabLength: 3
+".css.source":
+  editor:
+    tabLength: 3
+".php.source":
+  editor:
+    tabLength: 4
+".scss.source":
+  editor:
+    tabLength: 3
